@@ -361,3 +361,4 @@
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 lenzmx.com
 0.0.0.0 track.bruceleadx2.com
+0.0.0.0 mgid.com
